@@ -33,13 +33,13 @@ wget -qO- https://raw.githubusercontent.com/terem42/zfs-hetzner-vm/master/hetzne
 Ubuntu 20 LTS minimal setup with SSH server
 
 ````bash
-wget -qO- https://raw.githubusercontent.com/terem42/zfs-hetzner-vm/master/hetzner-ubuntu20-zfs-setup.sh | bash -
+ wget -qO- https://raw.githubusercontent.com/IITuxtmuxII/zfs-hetzner-vm/master/hetzner-ubuntu20-zfs-setup.sh | bash -
 ````
 
 Ubuntu 22 LTS minimal setup with SSH server
 
 ````bash
-wget -qO- https://raw.githubusercontent.com/terem42/zfs-hetzner-vm/master/hetzner-ubuntu22-zfs-setup.sh | bash -
+ wget -qO- https://raw.githubusercontent.com/IITuxtmuxII/zfs-hetzner-vm/master/hetzner-ubuntu22-zfs-setup.sh | bash -
 ````
 
 Answer script questions about desired hostname and ZFS ARC cache size.
